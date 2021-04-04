@@ -1,8 +1,8 @@
 @extends('layouts.app')
-@section('title', 'Admin Dashboard')
+@section('title', 'Siswa Dashboard')
 @section('content')
-@include('komponen.admin.sidebar')
-@include('komponen.admin.navbar')
+@include('komponen.siswa.sidebar')
+@include('komponen.siswa.navbar')
 
         <div class="container-fluid">
 
